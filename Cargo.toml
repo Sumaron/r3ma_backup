@@ -1,8 +1,11 @@
 [package]
 name = "r3ma_backup"
 version = "0.1.0"
-authors = ["Lars Pieschel <l.pieschel@t-online.de>"]
+authors = ["Lars Pieschel"]
 edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "Simple utility library for decrypting and encrypting Threema key backups."
+repository = "https://github.com/sumaron/r3ma_backup"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
